@@ -1,6 +1,4 @@
-By [Darren Chen](https://linkedin.com/in/dstchen).
-
----
+## Business Model
 
 ### Lower Service Fees
 

@@ -1,7 +1,4 @@
-By [Aaron Haobei Song](https://linkedin.com/in/haobeisong).
-
----
-
+## Governance
 ### The Guiding Principles for Governance
 
 1. Alignment of incentives between the governing body and the governed
@@ -14,7 +11,7 @@ By [Aaron Haobei Song](https://linkedin.com/in/haobeisong).
 
 ### The Governing Structure
 
-The governing structure proposed in this white paper is a **D**ecentralized **O**rganization (DO) or **D**ecentralized **C**orporation (DC[^1]) which lies between a **DAO (DAC)** and a **boring old organization (corporation)** as described by Vitalik Buterin[^2]. The subtle difference between a DAO and DO is in the word 'autonomous'. A DAO makes decisions for itself while in a DO the humans are the ones making the decisions.[^2] It is worth pointing out that the DO proposed here is a little different that it is the humans and the automation combined that makes the decisions.
+The governing structure proposed in this white paper is a **D**ecentralized **O**rganization (DO) or **D**ecentralized **C**orporation (DC[^1]) which lies between a **DAO (DAC)** and a **boring old organization (corporation)** as described by Vitalik Buterin[^2]. The subtle difference between a DAO and DO is in the word 'autonomous'. A DAO makes decisions for itself while in a DO the humans are the ones making the decisions. It is worth pointing out that the DO proposed here is a little different that it is the humans and the automation combined that makes the decisions.
 
 The proposed governing structure draws inspiration from political systems and consists of 3 bodies:
 

@@ -1,8 +1,6 @@
-By [Darren Chen](https://linkedin.com/in/dstchen) and [Aaron Haobei Song](https://linkedin.com/in/haobeisong).
+## Roadmap
 
----
-
-The roadmap consists of 3 phases in chronological order to achieve progressive decentralization[^1], viz. Centralized Platform Launch, Decentralization of the Product and Decentralization of the Governance
+The roadmap consists of 3 phases in chronological order to achieve progressive decentralization[^5], viz. Centralized Platform Launch, Decentralization of the Product and Decentralization of the Governance
 ### Phase 1: Centralized Platform Launch
 
 The *founding team* will 
@@ -43,4 +41,4 @@ The *founding team* will
 
   The *founding team* will progressively hand over the power to the governing body of the organization leading to an eventual disbandment of the *founding team*. Thereafter, the first *election* will be run to elect the *president* of the organization who will then be bestowed the power on the *executive*.
 
-[^1]: [Progressive Decentralization: A Playbook for Building Crypto Applications](https://a16z.com/2020/01/09/progressive-decentralization-crypto-product-management/)
+[^5]: [Progressive Decentralization: A Playbook for Building Crypto Applications](https://a16z.com/2020/01/09/progressive-decentralization-crypto-product-management/)
