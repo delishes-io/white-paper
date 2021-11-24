@@ -6,7 +6,7 @@
 
 A prominent food delivery business model is through an online platform which aggregates restaurants, consumers and drivers all in one place such as Uber Eats and DoorDash. As is illustrated in the following diagram, food delivery platform processes food orders from the consumers and coordinate the restaurants and drivers to prepare and deliver the food to them.
 
-![A typical centralized food delivery business model"](assets/centralized-food-delivery-platform-diagram.jpg) 
+![A typical centralized food delivery business model](assets/centralized-food-delivery-platform-diagram.jpg) 
 
 - Food delivery platforms often charge an upfront payment and lasting commission fee (5% - 30%) for their services which include the establishment of the network connecting multiple restaurants, consumers and drivers and coordination among them.
 

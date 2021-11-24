@@ -7,20 +7,17 @@ jobs:
     runs-on: ubuntu-18.04
     steps:
       - uses: actions/checkout@v2
-        with:
-          path: main
       - uses: docker://pandoc/latex:2.16.2
         with:
           args: >-  # allows you to break string into multiple lines
             -f gfm 
             -t pdf
             -o white-paper.pdf
-            main/README.md
-            main/introduction.md
-            main/governance.md
-            main/business-model.md
-            main/roadmap.md
-      - run: ls *
+            README.md
+            introduction.md
+            governance.md
+            business-model.md
+            roadmap.md
       - uses: actions/checkout@v2
         with:
           repository: delishes-restaurant/web
