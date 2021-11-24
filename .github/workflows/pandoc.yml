@@ -1,0 +1,37 @@
+name: Convert markdown to pdf
+
+on: push
+
+jobs:
+  convert_via_pandoc:
+    runs-on: ubuntu-18.04
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          path: main
+      - uses: docker://pandoc/latex:2.16.2
+        with:
+          args: >-  # allows you to break string into multiple lines
+            -f gfm 
+            -t pdf
+            -o white-paper.pdf
+            main/README.md
+            main/introduction.md
+            main/governance.md
+            main/business-model.md
+            main/roadmap.md
+      - run: ls *
+      - uses: actions/checkout@v2
+        with:
+          repository: delishes-restaurant/web
+          path: web
+          token: ${{secrets.PANDOC}}
+      - name: copy the generated pdf file and commit it to delishes-restaurant/web
+        run: |
+          cd web
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          cp ../white-paper.pdf public/
+          git add .
+          git commit -m "update the wihte paper on the website"
+          git push
