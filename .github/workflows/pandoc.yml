@@ -20,15 +20,15 @@ jobs:
             roadmap.md
       - uses: actions/checkout@v2
         with:
-          repository: delishes-restaurant/web
+          repository: delishes-io/web
           path: web
           token: ${{secrets.PANDOC}}
-      - name: copy the generated pdf file and commit it to delishes-restaurant/web
+      - name: copy the generated pdf file and commit it to delishes-io/web
         run: |
           cd web
           git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.email songhaobei@gmail.com
           cp ../white-paper.pdf public/
           git add .
-          git commit -m "update the wihte paper on the website"
+          git commit -m "[bot] updated wihte paper on web"
           git push

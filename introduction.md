@@ -1,23 +1,25 @@
 ## Introduction
 
-### Background on the food delivery industry
+### Background on Online Food Ordering
 
-**Definition:** Food delivery is a courier service in which restaurants, stores or independent food delivery companies deliver food to consumers.
-
-A prominent food delivery business model is through an online platform which aggregates restaurants, consumers and drivers all in one place such as Uber Eats and DoorDash. As is illustrated in the following diagram, food delivery platform processes food orders from the consumers and coordinate the restaurants and drivers to prepare and deliver the food to them.
+The most prominent food ordering business model is through an online 3rd party platform which aggregates restaurants, consumers, and drivers such as Uber Eats and DoorDash. As illustrated in the following diagram, the food delivery platform processes food orders from the consumers and coordinates the restaurants and drivers to prepare and deliver the food to them.
 
 ![A typical centralized food delivery business model](assets/centralized-food-delivery-platform-diagram.jpg) 
 
-- Food delivery platforms often charge an upfront payment and lasting commission fee (5% - 30%) for their services which include the establishment of the network connecting multiple restaurants, consumers and drivers and coordination among them.
+- Food ordering platforms often charge an upfront payment and a per order commission fee (5% - 30%), which covers the cost of customer marketing for restaurants, and the coordination of food delivery between the restaurants, drivers, and customers.
 
-- In addition, food delivery platforms collect data (both transactional and personal data) from all the participants on the platform and optimize their business operation to cut cost.
+- Food delivery platforms collect data (both transactional and personal data) from all the participants
 
-The problems with the third-party platform are:
+### The problems with third-party platforms are:
 
-1. The platform's incentives are not aligned with its participants. As a result, the platform tends to exploit and extract (monetary / informational) value from its participants for its own benefit.
+1. The platform's incentives are not aligned with its participants. As a result, the platform tends to exploit and extract (monetary / informational) value from its participants for the interest of company shareholders.
 
-2. The lack of transparency in the platform's operation and data usage. As an example, food delivery platforms often pit restaurants against each other and force them to offer lower than market food prices to attract consumers.
+2. There is a lack of transparency and information sharing for platform participants (both transactional and personal data). As a result, restaurants lose direct control and communication with their customers and become increasingly dependent on the decisions of 3rd party platforms. 
 
-A decentralized food delivery platform hands over the ownership of the platform to the hands of its participants resulting in perfect alignment in their incentives, that is, the value created by the participants is redistributed back to them instead of a middle man, viz. a centralized platform. By leveraging the blockchain technology, all the participants of the platform can also participate in the governance of the platform effectively and efficiently. The blockchain technology can also provide unprecedented data transparency and security, which leaves each individual participant's data in their sole discretion.
+
+### The Solution
+
+A decentralized food ordering platform owned by the participants (restaurants and customers) where incentives are aligned, that is, the value created by the participants is redistributed back to them instead of a middle man, viz. a centralized platform. By leveraging the blockchain technology, all the participants of the platform can participate in the governance of the platform effectively and efficiently. The blockchain technology can also provide unprecedented data transparency and security, which leaves each individual participant's data in their sole discretion.
+
 
 ![A typical centralized food delivery business model](assets/decentralized-food-delivery-platform-diagram.jpg)
