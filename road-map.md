@@ -1,7 +1,20 @@
-## Roadmap
+## Road map
 
-The roadmap consists of 3 phases in chronological order to achieve progressive decentralization[^5], viz. Centralized Platform Launch, Decentralization of the Product and Decentralization of the Governance
-### Phase 1: Centralized Platform Launch
+The road map consists of 4 phases in chronological order to tackle the initial cold start problem and achieve progressive decentralization[^5] thereafter, viz. Cold start, Centralized Platform Launch, Decentralization of the Product and Decentralization of the Governance
+
+### Phase 1: Cold Start
+
+Initially, the company will build a centralized food discovery app to capture the demand while gradually integrating more functionalities.
+ 
+ - Build an app recommending delishes (delicious dishes) on a weekly/daily basis with curated content selected by us.
+
+ - Implement the crypto incentives which encourage early sign-ups and usage of the app
+
+ - Add the functionality for content creators and onboard content creators like food influencers while converting existing customers to content creators (post food pictures and write reviews).
+
+ - Scale the network while learning from customer interactions using data.
+ 
+ ### Phase 2: Centralized Platform Launch
 
 The *founding team* will 
 
@@ -19,7 +32,7 @@ The *founding team* will
 
 - at the end of the phase, run a private fundraising from the participants of the platform who are given the option to purchase the governance tokens based on their revenue contribution to the platform.
   
-### Phase 2: Decentralization of the Product 
+### Phase 3: Decentralization of the Product 
 
 The *founding team* will
 
@@ -37,7 +50,7 @@ The *founding team* will
 
 - scale the platform to serve the global audience.
   
-### Phase 3: Decentralization of the Governance
+### Phase 4: Decentralization of the Governance
 
   The *founding team* will progressively hand over the power to the governing body of the organization leading to an eventual disbandment of the *founding team*. Thereafter, the first *election* will be run to elect the *president* of the organization who will then be bestowed the power on the *executive*.
 

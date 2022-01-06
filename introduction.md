@@ -10,11 +10,22 @@ The most prominent food ordering business model is through an online 3rd party p
 
 - Food delivery platforms collect data (both transactional and personal data) from all the participants
 
-### The problems with third-party platforms are:
+### The Problems with Third-Party Platforms are:
 
 1. The platform's incentives are not aligned with its participants. As a result, the platform tends to exploit and extract (monetary / informational) value from its participants for the interest of company shareholders.
 
 2. There is a lack of transparency and information sharing for platform participants (both transactional and personal data). As a result, restaurants lose direct control and communication with their customers and become increasingly dependent on the decisions of 3rd party platforms. 
+
+
+### Background on Online Food Review Systems
+
+Yelp and Google Reviews revolutionized how people discover restaurants from peer reviews all over the world. Anyone can post a review about any restaurant at any time and those reviews are accessible instantaneously to anyone looking for a new restaurant. These company profit from the paid partnership with restaurants and service tools and more importantly targeted ads to business on its platform (a typical web 2.0 platform).
+
+### The Problems with Centralized Food Review Systems are:
+
+1. As more people join the review platform and restaurants start to realize the economic impact to their business, there platforms have been flooded with fake/paid reviews and trolls. The centralized platforms also have the history of manipulating the ratings of a business depending on whether it advertises with them. 
+
+2. Like most web 2.0 applications, these review platforms take all the profit while exploiting their users. People who frequently post useful reviews don't get equally compensated and this incentive misalignment encourages more fake/paid reviews. 
 
 
 ### The Solution

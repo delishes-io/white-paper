@@ -17,7 +17,7 @@ jobs:
             introduction.md
             governance.md
             business-model.md
-            roadmap.md
+            road-map.md
       - uses: actions/checkout@v2
         with:
           repository: delishes-io/web

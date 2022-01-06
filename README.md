@@ -12,4 +12,4 @@ This white paper is intended to be succinct when using basic common sense rather
   
 - [Business Model](business-model.md)
   
-- [Roadmap](roadmap.md)
+- [Road Map](road-map.md)
